@@ -1,0 +1,16 @@
+1	SS	Sandstone
+2	SiS	Silty_Sand
+3	CBS	CrossBedded_Sand
+4	ShSS	Shaly_Sandstone
+5	Si	Silt
+6	ShSi	Shaly_Silt
+7	SiSh	Silty_Shale
+9	Ch	Chalk
+10	CaSS	Calcareous_Sandstone
+11	Li	Limestone
+12	ArLi	Argiliceous_limestone
+16	SSLi	Sandy_Limestone
+18	Coal	Coal
+21	Hal	Halite
+22	Anh	Anhydrite
+26	Gyp	Gypsum
